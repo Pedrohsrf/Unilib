@@ -1,4 +1,4 @@
-# 📚 2️⃣ Unilib (Kotlin)
+# 📚 Unilib (Kotlin)
 
 📚 Unilib - Sistema de Biblioteca (Kotlin)
 
